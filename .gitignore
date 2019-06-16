@@ -1,0 +1,10 @@
+
+/test-output/
+
+.circleci/
+.classpath
+.settings/
+reports/
+target/
+.project
+JenkinsFile
